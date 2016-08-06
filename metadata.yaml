@@ -1,0 +1,36 @@
+_repo: A-Political-Diary-1828-1830-Volume-II_10693
+_version: 0.0.1
+alternative_title: Lord Ellenborough's Diary, Volume II
+creator:
+  author:
+    agent_name: Ellenborough, Edward Law, Earl of
+    aliases:
+    - Law, Edward, Earl of Ellenborough
+    - Ellenborough, Lord
+    - Southam de la Bere, Edward Law, Earl of Ellenborough
+    birthdate: 1790
+    deathdate: 1871
+    gutenberg_agent_id: '3642'
+    url: http://www.gutenberg.org/2009/agents/3642
+    wikipedia: http://en.wikipedia.org/wiki/Edward_Law%2C_1st_Earl_of_Ellenborough
+  editor:
+    agent_name: Colchester, Reginald Charles Edward Abbot, 3d Baron
+    birthdate: 1842
+    deathdate: 1919
+    gutenberg_agent_id: '40510'
+    url: http://www.gutenberg.org/2009/agents/40510
+description: ''
+gutenberg_issued: '2004-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '10693'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DA'
+- !lcsh 'Great Britain -- Politics and government -- 1820-1830'
+- GITenberg
+title: A Political Diary, 1828-1830, Volume II
+url: http://www.gutenberg.org/ebooks/10693
